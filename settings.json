@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anmolkaserverhai.aternos.me:53760",
-    "port": 53760,
+    "ip": "anmolkaserverha-D5VU.aternos.me:26296",
+    "port": 26296,
     "version": "1.20.1",
     "try-creative": false
   },
